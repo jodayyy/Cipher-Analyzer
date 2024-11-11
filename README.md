@@ -16,15 +16,6 @@ Frequency Analysis Tool is a tool for frequency analysis and decryption of simpl
    ```bash
    cd Frequency-Analysis-Tool
    ```
-3. (Optional) Create a virtual environment and activate it:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-4. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 Run the app:
